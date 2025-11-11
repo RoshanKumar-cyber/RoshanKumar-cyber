@@ -79,6 +79,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+⭐;Keep+coding+and+creating!+💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%E2%AD%90;Keep+coding+and+creating!+%F0%9F%92%BB%22%20alt=%22Typing%20Animation" />
 </p>
 
