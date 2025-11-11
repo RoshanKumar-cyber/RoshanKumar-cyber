@@ -1,67 +1,84 @@
-<h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
-<h3 align="center">🚀 Passionate Developer | 💻 Tech Explorer | 🤖 Robotics & IoT Enthusiast</h3>
+<!-- 🌌 Dark Themed Cool Developer README -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There!+👋+I'm+Roshan+Kumar;A+Passionate+Developer+🚀;Exploring+Robotics+%26+IoT+🤖;Turning+Ideas+into+Code+✨" alt="Typing SVG" />
+</h1>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2e/e1/46/2ee1469b13b6f3a4b3b6e7f7c1f9ee5d.gif" width="500"/>
+</p>
+
+<h3 align="center">💻 Full Stack Learner | 🤖 Robotics & IoT Enthusiast | ☕ Code + Chill Developer</h3>
 
 ---
 
 ### 🧠 About Me  
-- 🌱 I’m currently learning **Frontend + Backend Development**  
-- 🤖 Exploring **Robotics, IoT, and AI**  
-- 💬 Ask me about **Python, Web Development, and IoT Projects**  
-- ⚡ Fun fact: *I turn coffee ☕ into clean, efficient code.*  
+- 🌱 Currently learning **Frontend + Backend Development**  
+- 🤖 Building small **IoT projects** with Python & Arduino  
+- ⚡ Loves experimenting with **AI + Web integration**  
+- 💬 Talk to me about **Web Dev, Python, or IoT setups**  
+- 🎧 Music + Coding = Perfect Combo 🎶  
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Arsenal  
 
 #### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white)
 
 #### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 #### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1a1a1a?style=for-the-badge&logo=express&logoColor=white)
 
 #### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=00758F)
 
 #### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
-### 📊 GitHub Stats  
+### ⚡ GitHub Vibes  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanKumar-cyber&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanKumar-cyber&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanKumar-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoshanKumar-cyber&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+---
+
+### 🌀 Cool Developer Quote  
+> *“First, solve the problem. Then, write the code.”* — John Johnson  
 
 ---
 
 ### 🌐 Connect With Me  
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshan-kumar-b632a1334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/roshan-kumar-b632a1334" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:roshanraviranjankumarsingh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://github.com/RoshanKumar-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-✨ *"Code. Create. Innovate. Repeat."*  
-<p align="center">⭐ Show some love by starring my repositories!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+⭐;Keep+coding+and+creating!+💻" alt="Typing Animation" />
+</p>
+
