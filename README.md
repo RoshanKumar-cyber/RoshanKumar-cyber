@@ -1,4 +1,3 @@
-<!-- 🌌 Dark Themed Cool Developer README -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There!+👋+I'm+Roshan+Kumar;A+Passionate+Developer+🚀;Exploring+Robotics+%26+IoT+🤖;Turning+Ideas+into+Code+✨" alt="Typing SVG" />
 </h1>
