@@ -1,3 +1,4 @@
+<!-- 🌌 Dark Themed Cool Developer README -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+There!+👋+I'm+Roshan+Kumar;A+Passionate+Developer+🚀;Exploring+Robotics+%26+IoT+🤖;Turning+Ideas+into+Code+✨" alt="Typing SVG" />
 </h1>
@@ -5,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/e1/46/2ee1469b13b6f3a4b3b6e7f7c1f9ee5d.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <h3 align="center">💻 Full Stack Learner | 🤖 Robotics & IoT Enthusiast | ☕ Code + Chill Developer</h3>
@@ -44,40 +45,4 @@
 #### 🧰 Tools  
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
----
-
-### ⚡ GitHub Vibes  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanKumar-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoshanKumar-cyber&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-### 🌀 Cool Developer Quote  
-> *“First, solve the problem. Then, write the code.”* — John Johnson  
-
----
-
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/roshan-kumar-b632a1334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="mailto:roshanraviranjankumarsingh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-  <a href="https://github.com/RoshanKumar-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+⭐;Keep+coding+and+creating!+💻" alt="Typing Animation" />
-</p>
-
+![Postman](https://img.shields.io/badge/Postman-1a1a1a?styl)
