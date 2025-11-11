@@ -46,3 +46,39 @@
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-1a1a1a?styl)
+
+---
+
+### ⚡ GitHub Vibes  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanKumar-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoshanKumar-cyber&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🌀 Cool Developer Quote  
+> *“First, solve the problem. Then, write the code.”* — John Johnson  
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/roshan-kumar-b632a1334" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:roshanraviranjankumarsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://github.com/RoshanKumar-cyber" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+⭐;Keep+coding+and+creating!+💻" alt="Typing Animation" />
+</p>
+
